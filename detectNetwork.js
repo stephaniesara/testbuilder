@@ -17,4 +17,4 @@ var detectNetwork = function(cardNumber) {
 
 
 // test this is a change
-
+// this is a second change
